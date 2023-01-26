@@ -1,0 +1,19 @@
+body {
+    background: beige;
+    margin-left: 200px;
+}
+h1 {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2 {
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+p {
+     font-size: 30px;
+}
+.img.p {
+    margin-bottom: 30px;
+    width: 300px;
+}
